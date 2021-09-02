@@ -20,13 +20,21 @@ soldier-lang is a fully turing complete language, it only accept 8 legal charact
 ------------------
 
 > memory tricks:
+
 > R for right
+
 > L for Left
+
 > A for Add
+
 > D for Decrease
+
 > O for output
+
 > I for INput
+
 > S for Start
+
 > E for End
 
 ## Hello World Example
